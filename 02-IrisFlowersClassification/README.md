@@ -4,4 +4,4 @@
 
 Screenshots can be found [here](https://github.com/azuregray/BharatIntern-InternshipTasks_Oct-Nov23/tree/main/02-IrisFlowersClassification/CodeSnapshots).
 
-## Please feel free to review my work. Do connect to me in my [LinkedIn](https://linkedin.com/in/arcticblue/)
+## Please feel free to review my work. Do connect to me on my [LinkedIn](https://linkedin.com/in/arcticblue/).
