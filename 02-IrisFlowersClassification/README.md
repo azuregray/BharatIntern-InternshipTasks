@@ -10,4 +10,4 @@ Here are my Code Snapshots:
 ![Output 01]([https://github.com/azuregray/BharatIntern-InternshipTasks_Oct-Nov23/blob/main/02-IrisFlowersClassification/CodeSnapshots/Output_01.png])
 ![Output 02]([https://github.com/azuregray/BharatIntern-InternshipTasks_Oct-Nov23/blob/main/02-IrisFlowersClassification/CodeSnapshots/Output_02.png])
 
-## Please feel free to review my work. Do connect to me in my [LinkedIn](https://linedkin.com/in/arcticblue/)
+## Please feel free to review my work. Do connect to me in my [LinkedIn](https://linkedin.com/in/arcticblue/)
