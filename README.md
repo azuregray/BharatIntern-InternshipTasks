@@ -28,6 +28,12 @@ Feel free to reach me out if you have any questions or feedback.
 Sincerely Thanks for reviewing my internship work!
 
 ---
+
+- **URL for the origin repository is as below**
+
+> https://github.com/azuregray/BharatIntern-InternshipTasks_Oct-Nov23
+
+---
 ### Check out Video Demonstrations of all my Projects and more on my YouTube Channel
 
 > [YouTube Channel](https://youtube.com/@pantoneblue)
