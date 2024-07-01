@@ -25,6 +25,7 @@ I'm excited to share the outcomes of all my tasks, and I encourage you to explor
 Feel free to reach me out if you have any questions or feedback.
 Sincerely Thanks for reviewing my internship work!
 
+---
 ### Check out Video Demonstrations of all my Projects and more on my YouTube Channel:
 
 > [Take me there](https://youtube.com/@thedarshgowda)
