@@ -1,4 +1,12 @@
-# Bharat Intern Internship Tasks Oct-Nov 2023
+# **B H A R A T &emsp; I N T E R N**
+## INTERNSHIP TASKS SHOWCASE - OCT - NOV 2023
+
+> Author: **Darshan S**
+
+> My Identity >>  [Github](https://github.com/azuregray/) | [LinkedIn](https://linkedin.com/in/arcticblue/) | [Instagram](https://instagram.com/thedarshgowda/) | [YouTube](https://www.youtube.com/@pantoneblue/) | [Telegram](https://t.me/adobegreen/) | [Mail](mailto:d7gowda@gmail.com)
+
+---
+
 Here I have showcased my Internship Work as part of Virtual Internship 2023 (Oct-Nov 2023 Batch) at [BHARAT INTERN](https://bharatintern.live/). 
 
 In this repository, I present my two new acconplishments during my time working at this internship programme:
@@ -20,5 +28,4 @@ Sincerely Thanks for reviewing my internship work!
 
 > [Take me there](https://youtube.com/@thedarshgowda)
 
-Darshan S
-> Contact me @ [LinkedIn](https://linkedin.com/in/arcticblue/) | [Instagram](https://instagram.com/thedarshgowda) | [Email](mailto:d7gowda@gmail.com)
+---
