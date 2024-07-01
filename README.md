@@ -1,5 +1,5 @@
 # **B H A R A T &emsp; I N T E R N**
-## INTERNSHIP TASKS &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; OCT - NOV 2023
+## INTERNSHIP TASKS &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; OCT - NOV 2023
 
 > Author: **Darshan S**
 
