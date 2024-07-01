@@ -13,12 +13,10 @@ Here I have showcased my Internship Work as part of Virtual Internship 2023 (Oct
 In this repository, I present my two new acconplishments during my time working at this internship programme:
 
 ## Task 1: House Price Prediction
-
 #### Task Description:
 > *Build a housing price prediction model that can overcome the strong multicollinearity that this dataset holds and predict the sales with respect to a single or multiple features as selected by the user (input received from user) along with the functionality of generating R2, RMSE scores of the model's operation.*
 
 ## Task 2: IRIS Flower Classification
-
 #### Task Description:
 > *Build an IRIS flower classification model that can learn the details of each flower in the dataset and which species it belongs to, then predict the species of a flower using the length and width of their petals and sepals using values input by the user.*
 
