@@ -2,10 +2,9 @@
 ## INTERNSHIP WORK
 #### OCTOBER - NOVEMBER 2023
 
-> Author: **D A R S H A N &ensp; S**
+> Author: **`D A R S H A N  S`**
 
-> My Identity >>  [Github](https://github.com/azuregray/) | [LinkedIn](https://linkedin.com/in/arcticblue/) | [Instagram](https://instagram.com/thedarshgowda/) | [YouTube](https://www.youtube.com/@pantoneblue/) | [Telegram](https://t.me/adobegreen/) | [Mail](mailto:d7gowda@gmail.com)
-
+> My Identity >>  [**`GitHub`**](https://github.com/azuregray/)
 ---
 
 Here I have showcased my Internship Work as part of Virtual Internship 2023 (Oct-Nov 2023 Batch) at [BHARAT INTERN](https://bharatintern.live/). 
@@ -36,6 +35,6 @@ Sincerely Thanks for reviewing my internship work!
 ---
 ### Check out Video Demonstrations of all my Projects and more on my YouTube Channel
 
-> [YouTube Channel](https://youtube.com/@pantoneblue)
+> [YouTube Channel](https://youtube.com/@pantoneblack)
 
 ---
