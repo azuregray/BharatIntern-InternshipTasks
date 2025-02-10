@@ -30,7 +30,7 @@ Sincerely Thanks for reviewing my internship work!
 
 - **URL for the origin repository is as below**
 
-> https://github.com/azuregray/BharatIntern-InternshipTasks_Oct-Nov23
+> https://github.com/azuregray/BharatIntern-InternshipTasks
 
 ---
 ### Check out Video Demonstrations of all my Projects and more on my YouTube Channel
